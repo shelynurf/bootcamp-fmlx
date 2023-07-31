@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bootcamp FMLX\\solution\\project\\project2.csproj",
-      "projectName": "project2",
-      "projectPath": "D:\\Bootcamp FMLX\\solution\\project\\project2.csproj",
+      "projectUniqueName": "D:\\Bootcamp FMLX\\solution\\project1\\project1.csproj",
+      "projectName": "project1",
+      "projectPath": "D:\\Bootcamp FMLX\\solution\\project1\\project1.csproj",
       "packagesPath": "C:\\Users\\LOENA\\.nuget\\packages\\",
-      "outputPath": "D:\\Bootcamp FMLX\\solution\\project\\obj\\",
+      "outputPath": "D:\\Bootcamp FMLX\\solution\\project1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LOENA\\AppData\\Roaming\\NuGet\\NuGet.Config"
