@@ -1,0 +1,15 @@
+D:\SolutionBatch4\project1\bin\Debug\net7.0\project1.exe
+D:\SolutionBatch4\project1\bin\Debug\net7.0\project1.deps.json
+D:\SolutionBatch4\project1\bin\Debug\net7.0\project1.runtimeconfig.json
+D:\SolutionBatch4\project1\bin\Debug\net7.0\project1.dll
+D:\SolutionBatch4\project1\bin\Debug\net7.0\project1.pdb
+D:\SolutionBatch4\project1\obj\Debug\net7.0\project1.csproj.AssemblyReference.cache
+D:\SolutionBatch4\project1\obj\Debug\net7.0\project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SolutionBatch4\project1\obj\Debug\net7.0\project1.AssemblyInfoInputs.cache
+D:\SolutionBatch4\project1\obj\Debug\net7.0\project1.AssemblyInfo.cs
+D:\SolutionBatch4\project1\obj\Debug\net7.0\project1.csproj.CoreCompileInputs.cache
+D:\SolutionBatch4\project1\obj\Debug\net7.0\project1.dll
+D:\SolutionBatch4\project1\obj\Debug\net7.0\refint\project1.dll
+D:\SolutionBatch4\project1\obj\Debug\net7.0\project1.pdb
+D:\SolutionBatch4\project1\obj\Debug\net7.0\project1.genruntimeconfig.cache
+D:\SolutionBatch4\project1\obj\Debug\net7.0\ref\project1.dll
