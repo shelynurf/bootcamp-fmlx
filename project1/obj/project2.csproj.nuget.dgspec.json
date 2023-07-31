@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\SolutionBatch4\\project2\\project2.csproj": {}
+    "D:\\Bootcamp FMLX\\solution\\project\\project2.csproj": {}
   },
   "projects": {
-    "d:\\SolutionBatch4\\project2\\project2.csproj": {
+    "D:\\Bootcamp FMLX\\solution\\project\\project2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\SolutionBatch4\\project2\\project2.csproj",
+        "projectUniqueName": "D:\\Bootcamp FMLX\\solution\\project\\project2.csproj",
         "projectName": "project2",
-        "projectPath": "d:\\SolutionBatch4\\project2\\project2.csproj",
-        "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-        "outputPath": "d:\\SolutionBatch4\\project2\\obj\\",
+        "projectPath": "D:\\Bootcamp FMLX\\solution\\project\\project2.csproj",
+        "packagesPath": "C:\\Users\\LOENA\\.nuget\\packages\\",
+        "outputPath": "D:\\Bootcamp FMLX\\solution\\project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\LOENA\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

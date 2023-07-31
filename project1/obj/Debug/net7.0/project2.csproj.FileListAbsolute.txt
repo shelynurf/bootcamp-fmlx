@@ -1,0 +1,30 @@
+D:\SolutionBatch4\project2\bin\Debug\net7.0\project2.exe
+D:\SolutionBatch4\project2\bin\Debug\net7.0\project2.deps.json
+D:\SolutionBatch4\project2\bin\Debug\net7.0\project2.runtimeconfig.json
+D:\SolutionBatch4\project2\bin\Debug\net7.0\project2.dll
+D:\SolutionBatch4\project2\bin\Debug\net7.0\project2.pdb
+D:\SolutionBatch4\project2\obj\Debug\net7.0\project2.csproj.AssemblyReference.cache
+D:\SolutionBatch4\project2\obj\Debug\net7.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SolutionBatch4\project2\obj\Debug\net7.0\project2.AssemblyInfoInputs.cache
+D:\SolutionBatch4\project2\obj\Debug\net7.0\project2.AssemblyInfo.cs
+D:\SolutionBatch4\project2\obj\Debug\net7.0\project2.csproj.CoreCompileInputs.cache
+D:\SolutionBatch4\project2\obj\Debug\net7.0\project2.dll
+D:\SolutionBatch4\project2\obj\Debug\net7.0\refint\project2.dll
+D:\SolutionBatch4\project2\obj\Debug\net7.0\project2.pdb
+D:\SolutionBatch4\project2\obj\Debug\net7.0\project2.genruntimeconfig.cache
+D:\SolutionBatch4\project2\obj\Debug\net7.0\ref\project2.dll
+D:\Bootcamp FMLX\solution\project\bin\Debug\net7.0\project2.exe
+D:\Bootcamp FMLX\solution\project\bin\Debug\net7.0\project2.deps.json
+D:\Bootcamp FMLX\solution\project\bin\Debug\net7.0\project2.runtimeconfig.json
+D:\Bootcamp FMLX\solution\project\bin\Debug\net7.0\project2.dll
+D:\Bootcamp FMLX\solution\project\bin\Debug\net7.0\project2.pdb
+D:\Bootcamp FMLX\solution\project\obj\Debug\net7.0\project2.csproj.AssemblyReference.cache
+D:\Bootcamp FMLX\solution\project\obj\Debug\net7.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp FMLX\solution\project\obj\Debug\net7.0\project2.AssemblyInfoInputs.cache
+D:\Bootcamp FMLX\solution\project\obj\Debug\net7.0\project2.AssemblyInfo.cs
+D:\Bootcamp FMLX\solution\project\obj\Debug\net7.0\project2.csproj.CoreCompileInputs.cache
+D:\Bootcamp FMLX\solution\project\obj\Debug\net7.0\project2.dll
+D:\Bootcamp FMLX\solution\project\obj\Debug\net7.0\refint\project2.dll
+D:\Bootcamp FMLX\solution\project\obj\Debug\net7.0\project2.pdb
+D:\Bootcamp FMLX\solution\project\obj\Debug\net7.0\project2.genruntimeconfig.cache
+D:\Bootcamp FMLX\solution\project\obj\Debug\net7.0\ref\project2.dll

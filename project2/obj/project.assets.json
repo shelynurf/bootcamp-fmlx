@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SolutionBatch4\\project2\\project2.csproj",
-      "projectName": "project2",
-      "projectPath": "D:\\SolutionBatch4\\project2\\project2.csproj",
+      "projectUniqueName": "D:\\SolutionBatch4\\project1\\project1.csproj",
+      "projectName": "project1",
+      "projectPath": "D:\\SolutionBatch4\\project1\\project1.csproj",
       "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-      "outputPath": "D:\\SolutionBatch4\\project2\\obj\\",
+      "outputPath": "D:\\SolutionBatch4\\project1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"
