@@ -1,2 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using AnimalLibrary;
+
+class Program
+
+{
+	static void Main()
+
+	{
+		Cat alex = new Cat();
+		alex.name = "alex";
+		Console.WriteLine(alex.name);
+		alex.Eat();
+
+	}
+}

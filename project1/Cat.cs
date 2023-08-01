@@ -4,34 +4,34 @@ public class Cat
 {
 	//variable
 	public bool isSmoothFur; // camel case
-	public string name;
+	public string? name;
 	public bool isMale;
 	public int age;
 	public bool isOwned;
-	public string color;
+	public string? color;
 	
 	// method
 	public void MakeSound() // pascal case
 	
 	{
-		Console.WriteLine("Make Sound");
+		Console.WriteLine(name + " Make Sound");
 	}
 	
 	public void Scratch()
 	
 	{
-		Console.WriteLine("Scratch");
+		Console.WriteLine(name + " Scratch");
 	}
 	
 	public void Sleep()
 	
 	{
-		Console.WriteLine("Sleep");
+		Console.WriteLine(name + " Sleep");
 	}
 	
-	public void Eat()
+	public void Eat( string food)
 	
 	{
-		Console.WriteLine("Eat");
+		Console.WriteLine(name + " eat " + food);
 	}
 }
