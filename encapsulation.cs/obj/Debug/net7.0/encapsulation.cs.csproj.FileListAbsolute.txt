@@ -1,0 +1,15 @@
+D:\Bootcamp Batch 4\bootcamp-fmlx\encapsulation.cs\bin\Debug\net7.0\encapsulation.cs.exe
+D:\Bootcamp Batch 4\bootcamp-fmlx\encapsulation.cs\bin\Debug\net7.0\encapsulation.cs.deps.json
+D:\Bootcamp Batch 4\bootcamp-fmlx\encapsulation.cs\bin\Debug\net7.0\encapsulation.cs.runtimeconfig.json
+D:\Bootcamp Batch 4\bootcamp-fmlx\encapsulation.cs\bin\Debug\net7.0\encapsulation.cs.dll
+D:\Bootcamp Batch 4\bootcamp-fmlx\encapsulation.cs\bin\Debug\net7.0\encapsulation.cs.pdb
+D:\Bootcamp Batch 4\bootcamp-fmlx\encapsulation.cs\obj\Debug\net7.0\encapsulation.cs.csproj.AssemblyReference.cache
+D:\Bootcamp Batch 4\bootcamp-fmlx\encapsulation.cs\obj\Debug\net7.0\encapsulation.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp Batch 4\bootcamp-fmlx\encapsulation.cs\obj\Debug\net7.0\encapsulation.cs.AssemblyInfoInputs.cache
+D:\Bootcamp Batch 4\bootcamp-fmlx\encapsulation.cs\obj\Debug\net7.0\encapsulation.cs.AssemblyInfo.cs
+D:\Bootcamp Batch 4\bootcamp-fmlx\encapsulation.cs\obj\Debug\net7.0\encapsulation.cs.csproj.CoreCompileInputs.cache
+D:\Bootcamp Batch 4\bootcamp-fmlx\encapsulation.cs\obj\Debug\net7.0\encapsulation.cs.dll
+D:\Bootcamp Batch 4\bootcamp-fmlx\encapsulation.cs\obj\Debug\net7.0\refint\encapsulation.cs.dll
+D:\Bootcamp Batch 4\bootcamp-fmlx\encapsulation.cs\obj\Debug\net7.0\encapsulation.cs.pdb
+D:\Bootcamp Batch 4\bootcamp-fmlx\encapsulation.cs\obj\Debug\net7.0\encapsulation.cs.genruntimeconfig.cache
+D:\Bootcamp Batch 4\bootcamp-fmlx\encapsulation.cs\obj\Debug\net7.0\ref\encapsulation.cs.dll

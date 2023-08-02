@@ -1,0 +1,15 @@
+D:\Bootcamp Batch 4\bootcamp-fmlx\project4\bin\Debug\net7.0\project4.exe
+D:\Bootcamp Batch 4\bootcamp-fmlx\project4\bin\Debug\net7.0\project4.deps.json
+D:\Bootcamp Batch 4\bootcamp-fmlx\project4\bin\Debug\net7.0\project4.runtimeconfig.json
+D:\Bootcamp Batch 4\bootcamp-fmlx\project4\bin\Debug\net7.0\project4.dll
+D:\Bootcamp Batch 4\bootcamp-fmlx\project4\bin\Debug\net7.0\project4.pdb
+D:\Bootcamp Batch 4\bootcamp-fmlx\project4\obj\Debug\net7.0\project4.csproj.AssemblyReference.cache
+D:\Bootcamp Batch 4\bootcamp-fmlx\project4\obj\Debug\net7.0\project4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp Batch 4\bootcamp-fmlx\project4\obj\Debug\net7.0\project4.AssemblyInfoInputs.cache
+D:\Bootcamp Batch 4\bootcamp-fmlx\project4\obj\Debug\net7.0\project4.AssemblyInfo.cs
+D:\Bootcamp Batch 4\bootcamp-fmlx\project4\obj\Debug\net7.0\project4.csproj.CoreCompileInputs.cache
+D:\Bootcamp Batch 4\bootcamp-fmlx\project4\obj\Debug\net7.0\project4.dll
+D:\Bootcamp Batch 4\bootcamp-fmlx\project4\obj\Debug\net7.0\refint\project4.dll
+D:\Bootcamp Batch 4\bootcamp-fmlx\project4\obj\Debug\net7.0\project4.pdb
+D:\Bootcamp Batch 4\bootcamp-fmlx\project4\obj\Debug\net7.0\project4.genruntimeconfig.cache
+D:\Bootcamp Batch 4\bootcamp-fmlx\project4\obj\Debug\net7.0\ref\project4.dll
