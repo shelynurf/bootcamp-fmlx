@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Bootcamp Batch 4\\bootcamp-fmlx\\encapsulation.cs\\encapsulation.cs.csproj": {}
+    "d:\\Bootcamp Batch 4\\bootcamp-fmlx\\encapsulation.cs\\encapsulation.cs.csproj": {}
   },
   "projects": {
-    "D:\\Bootcamp Batch 4\\bootcamp-fmlx\\encapsulation.cs\\encapsulation.cs.csproj": {
+    "d:\\Bootcamp Batch 4\\bootcamp-fmlx\\encapsulation.cs\\encapsulation.cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bootcamp Batch 4\\bootcamp-fmlx\\encapsulation.cs\\encapsulation.cs.csproj",
+        "projectUniqueName": "d:\\Bootcamp Batch 4\\bootcamp-fmlx\\encapsulation.cs\\encapsulation.cs.csproj",
         "projectName": "encapsulation.cs",
-        "projectPath": "D:\\Bootcamp Batch 4\\bootcamp-fmlx\\encapsulation.cs\\encapsulation.cs.csproj",
+        "projectPath": "d:\\Bootcamp Batch 4\\bootcamp-fmlx\\encapsulation.cs\\encapsulation.cs.csproj",
         "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-        "outputPath": "D:\\Bootcamp Batch 4\\bootcamp-fmlx\\encapsulation.cs\\obj\\",
+        "outputPath": "d:\\Bootcamp Batch 4\\bootcamp-fmlx\\encapsulation.cs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"

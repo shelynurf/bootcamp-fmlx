@@ -1,0 +1,15 @@
+D:\Bootcamp Batch 4\bootcamp-fmlx\abstract-practice\bin\Debug\net7.0\abstract-practice.exe
+D:\Bootcamp Batch 4\bootcamp-fmlx\abstract-practice\bin\Debug\net7.0\abstract-practice.deps.json
+D:\Bootcamp Batch 4\bootcamp-fmlx\abstract-practice\bin\Debug\net7.0\abstract-practice.runtimeconfig.json
+D:\Bootcamp Batch 4\bootcamp-fmlx\abstract-practice\bin\Debug\net7.0\abstract-practice.dll
+D:\Bootcamp Batch 4\bootcamp-fmlx\abstract-practice\bin\Debug\net7.0\abstract-practice.pdb
+D:\Bootcamp Batch 4\bootcamp-fmlx\abstract-practice\obj\Debug\net7.0\abstract-practice.csproj.AssemblyReference.cache
+D:\Bootcamp Batch 4\bootcamp-fmlx\abstract-practice\obj\Debug\net7.0\abstract-practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp Batch 4\bootcamp-fmlx\abstract-practice\obj\Debug\net7.0\abstract-practice.AssemblyInfoInputs.cache
+D:\Bootcamp Batch 4\bootcamp-fmlx\abstract-practice\obj\Debug\net7.0\abstract-practice.AssemblyInfo.cs
+D:\Bootcamp Batch 4\bootcamp-fmlx\abstract-practice\obj\Debug\net7.0\abstract-practice.csproj.CoreCompileInputs.cache
+D:\Bootcamp Batch 4\bootcamp-fmlx\abstract-practice\obj\Debug\net7.0\abstract-practice.dll
+D:\Bootcamp Batch 4\bootcamp-fmlx\abstract-practice\obj\Debug\net7.0\refint\abstract-practice.dll
+D:\Bootcamp Batch 4\bootcamp-fmlx\abstract-practice\obj\Debug\net7.0\abstract-practice.pdb
+D:\Bootcamp Batch 4\bootcamp-fmlx\abstract-practice\obj\Debug\net7.0\abstract-practice.genruntimeconfig.cache
+D:\Bootcamp Batch 4\bootcamp-fmlx\abstract-practice\obj\Debug\net7.0\ref\abstract-practice.dll
