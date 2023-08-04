@@ -31,7 +31,7 @@ public class Mom : Family
 	}
 	public override void Role()
 	{
-		Console.WriteLine(name + " Managing house");
+		Console.WriteLine(name + " managing house");
 	}
 }
 
@@ -45,7 +45,7 @@ public class Dad : Family
 	}
 	public override void Role()
 	{
-		Console.WriteLine(name + " Looking for money");
+		Console.WriteLine(name + " looking for money");
 	}
 }
 
@@ -56,7 +56,7 @@ public class Children : Family
 	{}
 	public override void Role()
 	{
-		Console.WriteLine(name + " Study at school");
+		Console.WriteLine(name + " study at school");
 	}
 
 	public override void isMarried()
@@ -64,13 +64,13 @@ public class Children : Family
 		Console.WriteLine(name + " is not married");
 	}
 	
-	public void Criteria()
+	public void AgeCriteria()
 	
 	{
 		if (_age < 25 )
 		
 		{
-			Console.WriteLine(name + " is Teenager");
+			Console.WriteLine(name + " is teenager");
 			
 		}
 		else
@@ -91,11 +91,10 @@ class Program
 		Mom mom = new Mom("mom", 45, 12345);
 		Dad dad = new Dad("dad", 50, 23456);
 		Children children = new Children("children", 18, 34567);
-		
-		
+			
 		
 		mom.isMarried();
-		children.Criteria();
+		children.AgeCriteria();
 		dad.Role();
 		
 		

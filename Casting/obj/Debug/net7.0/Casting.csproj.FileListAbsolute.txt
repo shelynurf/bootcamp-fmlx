@@ -1,0 +1,15 @@
+D:\Bootcamp Shely\bootcamp-fmlx\Casting\obj\Debug\net7.0\Casting.csproj.AssemblyReference.cache
+D:\Bootcamp Shely\bootcamp-fmlx\Casting\obj\Debug\net7.0\Casting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp Shely\bootcamp-fmlx\Casting\obj\Debug\net7.0\Casting.AssemblyInfoInputs.cache
+D:\Bootcamp Shely\bootcamp-fmlx\Casting\obj\Debug\net7.0\Casting.AssemblyInfo.cs
+D:\Bootcamp Shely\bootcamp-fmlx\Casting\obj\Debug\net7.0\Casting.csproj.CoreCompileInputs.cache
+D:\Bootcamp Shely\bootcamp-fmlx\Casting\bin\Debug\net7.0\Casting.exe
+D:\Bootcamp Shely\bootcamp-fmlx\Casting\bin\Debug\net7.0\Casting.deps.json
+D:\Bootcamp Shely\bootcamp-fmlx\Casting\bin\Debug\net7.0\Casting.runtimeconfig.json
+D:\Bootcamp Shely\bootcamp-fmlx\Casting\bin\Debug\net7.0\Casting.dll
+D:\Bootcamp Shely\bootcamp-fmlx\Casting\bin\Debug\net7.0\Casting.pdb
+D:\Bootcamp Shely\bootcamp-fmlx\Casting\obj\Debug\net7.0\Casting.dll
+D:\Bootcamp Shely\bootcamp-fmlx\Casting\obj\Debug\net7.0\refint\Casting.dll
+D:\Bootcamp Shely\bootcamp-fmlx\Casting\obj\Debug\net7.0\Casting.pdb
+D:\Bootcamp Shely\bootcamp-fmlx\Casting\obj\Debug\net7.0\Casting.genruntimeconfig.cache
+D:\Bootcamp Shely\bootcamp-fmlx\Casting\obj\Debug\net7.0\ref\Casting.dll

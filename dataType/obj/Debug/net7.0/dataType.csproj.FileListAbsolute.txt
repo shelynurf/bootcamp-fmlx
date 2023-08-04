@@ -1,0 +1,15 @@
+D:\Bootcamp Shely\bootcamp-fmlx\dataType\bin\Debug\net7.0\dataType.exe
+D:\Bootcamp Shely\bootcamp-fmlx\dataType\bin\Debug\net7.0\dataType.deps.json
+D:\Bootcamp Shely\bootcamp-fmlx\dataType\bin\Debug\net7.0\dataType.runtimeconfig.json
+D:\Bootcamp Shely\bootcamp-fmlx\dataType\bin\Debug\net7.0\dataType.dll
+D:\Bootcamp Shely\bootcamp-fmlx\dataType\bin\Debug\net7.0\dataType.pdb
+D:\Bootcamp Shely\bootcamp-fmlx\dataType\obj\Debug\net7.0\dataType.csproj.AssemblyReference.cache
+D:\Bootcamp Shely\bootcamp-fmlx\dataType\obj\Debug\net7.0\dataType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp Shely\bootcamp-fmlx\dataType\obj\Debug\net7.0\dataType.AssemblyInfoInputs.cache
+D:\Bootcamp Shely\bootcamp-fmlx\dataType\obj\Debug\net7.0\dataType.AssemblyInfo.cs
+D:\Bootcamp Shely\bootcamp-fmlx\dataType\obj\Debug\net7.0\dataType.csproj.CoreCompileInputs.cache
+D:\Bootcamp Shely\bootcamp-fmlx\dataType\obj\Debug\net7.0\dataType.dll
+D:\Bootcamp Shely\bootcamp-fmlx\dataType\obj\Debug\net7.0\refint\dataType.dll
+D:\Bootcamp Shely\bootcamp-fmlx\dataType\obj\Debug\net7.0\dataType.pdb
+D:\Bootcamp Shely\bootcamp-fmlx\dataType\obj\Debug\net7.0\dataType.genruntimeconfig.cache
+D:\Bootcamp Shely\bootcamp-fmlx\dataType\obj\Debug\net7.0\ref\dataType.dll

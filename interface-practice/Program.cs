@@ -10,7 +10,7 @@ public class Mom : IHuman
 	public void Role()
 	
 	{
-		Console.WriteLine("Managing house");
+		Console.WriteLine("managing house");
 	}
 }
 
@@ -20,7 +20,7 @@ public class Dad : IHuman
 	public void Role()
 	
 	{
-		Console.WriteLine("Looking for money");
+		Console.WriteLine("looking for money");
 	}
 }
 
@@ -30,7 +30,7 @@ public class Children : IHuman
 	public void Role()
 	
 	{
-		Console.WriteLine("Study at school");
+		Console.WriteLine("study at school");
 	}
 }
 

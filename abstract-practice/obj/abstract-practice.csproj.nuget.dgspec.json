@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Bootcamp Batch 4\\bootcamp-fmlx\\abstract-practice\\abstract-practice.csproj": {}
+    "D:\\Bootcamp Shely\\bootcamp-fmlx\\abstract-practice\\abstract-practice.csproj": {}
   },
   "projects": {
-    "D:\\Bootcamp Batch 4\\bootcamp-fmlx\\abstract-practice\\abstract-practice.csproj": {
+    "D:\\Bootcamp Shely\\bootcamp-fmlx\\abstract-practice\\abstract-practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bootcamp Batch 4\\bootcamp-fmlx\\abstract-practice\\abstract-practice.csproj",
+        "projectUniqueName": "D:\\Bootcamp Shely\\bootcamp-fmlx\\abstract-practice\\abstract-practice.csproj",
         "projectName": "abstract-practice",
-        "projectPath": "D:\\Bootcamp Batch 4\\bootcamp-fmlx\\abstract-practice\\abstract-practice.csproj",
+        "projectPath": "D:\\Bootcamp Shely\\bootcamp-fmlx\\abstract-practice\\abstract-practice.csproj",
         "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-        "outputPath": "D:\\Bootcamp Batch 4\\bootcamp-fmlx\\abstract-practice\\obj\\",
+        "outputPath": "D:\\Bootcamp Shely\\bootcamp-fmlx\\abstract-practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"
