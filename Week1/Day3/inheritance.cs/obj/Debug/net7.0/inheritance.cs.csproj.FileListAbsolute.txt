@@ -1,0 +1,15 @@
+D:\Bootcamp Batch 4\bootcamp-fmlx\inheritance.cs\bin\Debug\net7.0\inheritance.cs.exe
+D:\Bootcamp Batch 4\bootcamp-fmlx\inheritance.cs\bin\Debug\net7.0\inheritance.cs.deps.json
+D:\Bootcamp Batch 4\bootcamp-fmlx\inheritance.cs\bin\Debug\net7.0\inheritance.cs.runtimeconfig.json
+D:\Bootcamp Batch 4\bootcamp-fmlx\inheritance.cs\bin\Debug\net7.0\inheritance.cs.dll
+D:\Bootcamp Batch 4\bootcamp-fmlx\inheritance.cs\bin\Debug\net7.0\inheritance.cs.pdb
+D:\Bootcamp Batch 4\bootcamp-fmlx\inheritance.cs\obj\Debug\net7.0\inheritance.cs.csproj.AssemblyReference.cache
+D:\Bootcamp Batch 4\bootcamp-fmlx\inheritance.cs\obj\Debug\net7.0\inheritance.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp Batch 4\bootcamp-fmlx\inheritance.cs\obj\Debug\net7.0\inheritance.cs.AssemblyInfoInputs.cache
+D:\Bootcamp Batch 4\bootcamp-fmlx\inheritance.cs\obj\Debug\net7.0\inheritance.cs.AssemblyInfo.cs
+D:\Bootcamp Batch 4\bootcamp-fmlx\inheritance.cs\obj\Debug\net7.0\inheritance.cs.csproj.CoreCompileInputs.cache
+D:\Bootcamp Batch 4\bootcamp-fmlx\inheritance.cs\obj\Debug\net7.0\inheritance.cs.dll
+D:\Bootcamp Batch 4\bootcamp-fmlx\inheritance.cs\obj\Debug\net7.0\refint\inheritance.cs.dll
+D:\Bootcamp Batch 4\bootcamp-fmlx\inheritance.cs\obj\Debug\net7.0\inheritance.cs.pdb
+D:\Bootcamp Batch 4\bootcamp-fmlx\inheritance.cs\obj\Debug\net7.0\inheritance.cs.genruntimeconfig.cache
+D:\Bootcamp Batch 4\bootcamp-fmlx\inheritance.cs\obj\Debug\net7.0\ref\inheritance.cs.dll

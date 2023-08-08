@@ -1,0 +1,15 @@
+D:\Bootcamp Batch 4\bootcamp-fmlx\printer-practice\bin\Debug\net7.0\printer-practice.exe
+D:\Bootcamp Batch 4\bootcamp-fmlx\printer-practice\bin\Debug\net7.0\printer-practice.deps.json
+D:\Bootcamp Batch 4\bootcamp-fmlx\printer-practice\bin\Debug\net7.0\printer-practice.runtimeconfig.json
+D:\Bootcamp Batch 4\bootcamp-fmlx\printer-practice\bin\Debug\net7.0\printer-practice.dll
+D:\Bootcamp Batch 4\bootcamp-fmlx\printer-practice\bin\Debug\net7.0\printer-practice.pdb
+D:\Bootcamp Batch 4\bootcamp-fmlx\printer-practice\obj\Debug\net7.0\printer-practice.csproj.AssemblyReference.cache
+D:\Bootcamp Batch 4\bootcamp-fmlx\printer-practice\obj\Debug\net7.0\printer-practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp Batch 4\bootcamp-fmlx\printer-practice\obj\Debug\net7.0\printer-practice.AssemblyInfoInputs.cache
+D:\Bootcamp Batch 4\bootcamp-fmlx\printer-practice\obj\Debug\net7.0\printer-practice.AssemblyInfo.cs
+D:\Bootcamp Batch 4\bootcamp-fmlx\printer-practice\obj\Debug\net7.0\printer-practice.csproj.CoreCompileInputs.cache
+D:\Bootcamp Batch 4\bootcamp-fmlx\printer-practice\obj\Debug\net7.0\printer-practice.dll
+D:\Bootcamp Batch 4\bootcamp-fmlx\printer-practice\obj\Debug\net7.0\refint\printer-practice.dll
+D:\Bootcamp Batch 4\bootcamp-fmlx\printer-practice\obj\Debug\net7.0\printer-practice.pdb
+D:\Bootcamp Batch 4\bootcamp-fmlx\printer-practice\obj\Debug\net7.0\printer-practice.genruntimeconfig.cache
+D:\Bootcamp Batch 4\bootcamp-fmlx\printer-practice\obj\Debug\net7.0\ref\printer-practice.dll

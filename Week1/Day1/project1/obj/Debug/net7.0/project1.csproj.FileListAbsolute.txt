@@ -1,0 +1,30 @@
+D:\Bootcamp FMLX\solution\project1\bin\Debug\net7.0\project1.exe
+D:\Bootcamp FMLX\solution\project1\bin\Debug\net7.0\project1.deps.json
+D:\Bootcamp FMLX\solution\project1\bin\Debug\net7.0\project1.runtimeconfig.json
+D:\Bootcamp FMLX\solution\project1\bin\Debug\net7.0\project1.dll
+D:\Bootcamp FMLX\solution\project1\bin\Debug\net7.0\project1.pdb
+D:\Bootcamp FMLX\solution\project1\obj\Debug\net7.0\project1.csproj.AssemblyReference.cache
+D:\Bootcamp FMLX\solution\project1\obj\Debug\net7.0\project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp FMLX\solution\project1\obj\Debug\net7.0\project1.AssemblyInfoInputs.cache
+D:\Bootcamp FMLX\solution\project1\obj\Debug\net7.0\project1.AssemblyInfo.cs
+D:\Bootcamp FMLX\solution\project1\obj\Debug\net7.0\project1.csproj.CoreCompileInputs.cache
+D:\Bootcamp FMLX\solution\project1\obj\Debug\net7.0\project1.dll
+D:\Bootcamp FMLX\solution\project1\obj\Debug\net7.0\refint\project1.dll
+D:\Bootcamp FMLX\solution\project1\obj\Debug\net7.0\project1.pdb
+D:\Bootcamp FMLX\solution\project1\obj\Debug\net7.0\project1.genruntimeconfig.cache
+D:\Bootcamp FMLX\solution\project1\obj\Debug\net7.0\ref\project1.dll
+D:\Bootcamp Batch 4\bootcamp-fmlx\project1\bin\Debug\net7.0\project1.exe
+D:\Bootcamp Batch 4\bootcamp-fmlx\project1\bin\Debug\net7.0\project1.deps.json
+D:\Bootcamp Batch 4\bootcamp-fmlx\project1\bin\Debug\net7.0\project1.runtimeconfig.json
+D:\Bootcamp Batch 4\bootcamp-fmlx\project1\bin\Debug\net7.0\project1.dll
+D:\Bootcamp Batch 4\bootcamp-fmlx\project1\bin\Debug\net7.0\project1.pdb
+D:\Bootcamp Batch 4\bootcamp-fmlx\project1\obj\Debug\net7.0\project1.csproj.AssemblyReference.cache
+D:\Bootcamp Batch 4\bootcamp-fmlx\project1\obj\Debug\net7.0\project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp Batch 4\bootcamp-fmlx\project1\obj\Debug\net7.0\project1.AssemblyInfoInputs.cache
+D:\Bootcamp Batch 4\bootcamp-fmlx\project1\obj\Debug\net7.0\project1.AssemblyInfo.cs
+D:\Bootcamp Batch 4\bootcamp-fmlx\project1\obj\Debug\net7.0\project1.csproj.CoreCompileInputs.cache
+D:\Bootcamp Batch 4\bootcamp-fmlx\project1\obj\Debug\net7.0\project1.dll
+D:\Bootcamp Batch 4\bootcamp-fmlx\project1\obj\Debug\net7.0\refint\project1.dll
+D:\Bootcamp Batch 4\bootcamp-fmlx\project1\obj\Debug\net7.0\project1.pdb
+D:\Bootcamp Batch 4\bootcamp-fmlx\project1\obj\Debug\net7.0\project1.genruntimeconfig.cache
+D:\Bootcamp Batch 4\bootcamp-fmlx\project1\obj\Debug\net7.0\ref\project1.dll

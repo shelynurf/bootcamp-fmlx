@@ -1,0 +1,5 @@
+D:\Bootcamp Batch 4\bootcamp-fmlx\abstraction\obj\Debug\net7.0\abstraction.csproj.AssemblyReference.cache
+D:\Bootcamp Batch 4\bootcamp-fmlx\abstraction\obj\Debug\net7.0\abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp Batch 4\bootcamp-fmlx\abstraction\obj\Debug\net7.0\abstraction.AssemblyInfoInputs.cache
+D:\Bootcamp Batch 4\bootcamp-fmlx\abstraction\obj\Debug\net7.0\abstraction.AssemblyInfo.cs
+D:\Bootcamp Batch 4\bootcamp-fmlx\abstraction\obj\Debug\net7.0\abstraction.csproj.CoreCompileInputs.cache
