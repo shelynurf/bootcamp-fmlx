@@ -1,0 +1,5 @@
+D:\Bootcamp Shely\bootcamp-fmlx\tryCatch\obj\Debug\net7.0\tryCatch.csproj.AssemblyReference.cache
+D:\Bootcamp Shely\bootcamp-fmlx\tryCatch\obj\Debug\net7.0\tryCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp Shely\bootcamp-fmlx\tryCatch\obj\Debug\net7.0\tryCatch.AssemblyInfoInputs.cache
+D:\Bootcamp Shely\bootcamp-fmlx\tryCatch\obj\Debug\net7.0\tryCatch.AssemblyInfo.cs
+D:\Bootcamp Shely\bootcamp-fmlx\tryCatch\obj\Debug\net7.0\tryCatch.csproj.CoreCompileInputs.cache
