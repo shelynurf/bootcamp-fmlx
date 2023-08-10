@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Bootcamp Batch 4\\bootcamp-fmlx\\day4-compability\\day4-compability.csproj": {}
+    "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day4\\Learning\\day4-compability\\day4-compability.csproj": {}
   },
   "projects": {
-    "d:\\Bootcamp Batch 4\\bootcamp-fmlx\\day4-compability\\day4-compability.csproj": {
+    "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day4\\Learning\\day4-compability\\day4-compability.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Bootcamp Batch 4\\bootcamp-fmlx\\day4-compability\\day4-compability.csproj",
+        "projectUniqueName": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day4\\Learning\\day4-compability\\day4-compability.csproj",
         "projectName": "day4-compability",
-        "projectPath": "d:\\Bootcamp Batch 4\\bootcamp-fmlx\\day4-compability\\day4-compability.csproj",
+        "projectPath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day4\\Learning\\day4-compability\\day4-compability.csproj",
         "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-        "outputPath": "d:\\Bootcamp Batch 4\\bootcamp-fmlx\\day4-compability\\obj\\",
+        "outputPath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day4\\Learning\\day4-compability\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"

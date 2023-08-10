@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bootcamp Batch 4\\bootcamp-fmlx\\inheritance.cs\\inheritance.cs.csproj",
+      "projectUniqueName": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day3\\inheritance.cs\\inheritance.cs.csproj",
       "projectName": "inheritance.cs",
-      "projectPath": "D:\\Bootcamp Batch 4\\bootcamp-fmlx\\inheritance.cs\\inheritance.cs.csproj",
+      "projectPath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day3\\inheritance.cs\\inheritance.cs.csproj",
       "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-      "outputPath": "D:\\Bootcamp Batch 4\\bootcamp-fmlx\\inheritance.cs\\obj\\",
+      "outputPath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day3\\inheritance.cs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"

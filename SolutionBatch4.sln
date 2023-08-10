@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
@@ -82,6 +82,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tryCatch", "Week2\Day3\Learning\tryCatch\tryCatch.csproj", "{FD2DE819-91F2-483D-8AE6-0BA93CD0B81E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegate-practice", "Week2\Day3\Practice\delegate-practice\delegate-practice.csproj", "{77BD246D-EBBA-41E9-884F-C5B91A5C92A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foobar", "foobar\foobar.csproj", "{490FB3B0-BD16-4C2B-A4B4-72A6D13DD10D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operatorOverloading", "operatorOverloading\operatorOverloading.csproj", "{86A043C6-1B49-4A49-B1A0-8E2CDE4B833F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -188,6 +192,14 @@ Global
 		{77BD246D-EBBA-41E9-884F-C5B91A5C92A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77BD246D-EBBA-41E9-884F-C5B91A5C92A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77BD246D-EBBA-41E9-884F-C5B91A5C92A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{490FB3B0-BD16-4C2B-A4B4-72A6D13DD10D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{490FB3B0-BD16-4C2B-A4B4-72A6D13DD10D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{490FB3B0-BD16-4C2B-A4B4-72A6D13DD10D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{490FB3B0-BD16-4C2B-A4B4-72A6D13DD10D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86A043C6-1B49-4A49-B1A0-8E2CDE4B833F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A043C6-1B49-4A49-B1A0-8E2CDE4B833F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86A043C6-1B49-4A49-B1A0-8E2CDE4B833F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86A043C6-1B49-4A49-B1A0-8E2CDE4B833F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E28D186A-6DEC-4CB8-BF93-6ACF88BFD9BD} = {DD4EB6B1-7C8A-45A5-81F6-58C0CAC8A161}

@@ -1,0 +1,15 @@
+D:\Bootcamp Shely\bootcamp-fmlx\foobar\bin\Debug\net7.0\foobar.exe
+D:\Bootcamp Shely\bootcamp-fmlx\foobar\bin\Debug\net7.0\foobar.deps.json
+D:\Bootcamp Shely\bootcamp-fmlx\foobar\bin\Debug\net7.0\foobar.runtimeconfig.json
+D:\Bootcamp Shely\bootcamp-fmlx\foobar\bin\Debug\net7.0\foobar.dll
+D:\Bootcamp Shely\bootcamp-fmlx\foobar\bin\Debug\net7.0\foobar.pdb
+D:\Bootcamp Shely\bootcamp-fmlx\foobar\obj\Debug\net7.0\foobar.csproj.AssemblyReference.cache
+D:\Bootcamp Shely\bootcamp-fmlx\foobar\obj\Debug\net7.0\foobar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp Shely\bootcamp-fmlx\foobar\obj\Debug\net7.0\foobar.AssemblyInfoInputs.cache
+D:\Bootcamp Shely\bootcamp-fmlx\foobar\obj\Debug\net7.0\foobar.AssemblyInfo.cs
+D:\Bootcamp Shely\bootcamp-fmlx\foobar\obj\Debug\net7.0\foobar.csproj.CoreCompileInputs.cache
+D:\Bootcamp Shely\bootcamp-fmlx\foobar\obj\Debug\net7.0\foobar.dll
+D:\Bootcamp Shely\bootcamp-fmlx\foobar\obj\Debug\net7.0\refint\foobar.dll
+D:\Bootcamp Shely\bootcamp-fmlx\foobar\obj\Debug\net7.0\foobar.pdb
+D:\Bootcamp Shely\bootcamp-fmlx\foobar\obj\Debug\net7.0\foobar.genruntimeconfig.cache
+D:\Bootcamp Shely\bootcamp-fmlx\foobar\obj\Debug\net7.0\ref\foobar.dll

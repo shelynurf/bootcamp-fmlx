@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Bootcamp Batch 4\\bootcamp-fmlx\\project5\\project5.csproj": {}
+    "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day2\\project5\\project5.csproj": {}
   },
   "projects": {
-    "d:\\Bootcamp Batch 4\\bootcamp-fmlx\\project5\\project5.csproj": {
+    "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day2\\project5\\project5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Bootcamp Batch 4\\bootcamp-fmlx\\project5\\project5.csproj",
+        "projectUniqueName": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day2\\project5\\project5.csproj",
         "projectName": "project5",
-        "projectPath": "d:\\Bootcamp Batch 4\\bootcamp-fmlx\\project5\\project5.csproj",
+        "projectPath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day2\\project5\\project5.csproj",
         "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-        "outputPath": "d:\\Bootcamp Batch 4\\bootcamp-fmlx\\project5\\obj\\",
+        "outputPath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day2\\project5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"

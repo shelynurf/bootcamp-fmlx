@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bootcamp Shely\\bootcamp-fmlx\\string-stringBuilder\\string-stringBuilder.csproj",
+      "projectUniqueName": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week2\\Day1\\string-stringBuilder\\string-stringBuilder.csproj",
       "projectName": "string-stringBuilder",
-      "projectPath": "D:\\Bootcamp Shely\\bootcamp-fmlx\\string-stringBuilder\\string-stringBuilder.csproj",
+      "projectPath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week2\\Day1\\string-stringBuilder\\string-stringBuilder.csproj",
       "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-      "outputPath": "D:\\Bootcamp Shely\\bootcamp-fmlx\\string-stringBuilder\\obj\\",
+      "outputPath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week2\\Day1\\string-stringBuilder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"

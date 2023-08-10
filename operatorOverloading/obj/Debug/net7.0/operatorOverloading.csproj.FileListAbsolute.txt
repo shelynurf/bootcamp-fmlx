@@ -1,0 +1,15 @@
+D:\Bootcamp Shely\bootcamp-fmlx\operatorOverloading\obj\Debug\net7.0\operatorOverloading.csproj.AssemblyReference.cache
+D:\Bootcamp Shely\bootcamp-fmlx\operatorOverloading\obj\Debug\net7.0\operatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp Shely\bootcamp-fmlx\operatorOverloading\obj\Debug\net7.0\operatorOverloading.AssemblyInfoInputs.cache
+D:\Bootcamp Shely\bootcamp-fmlx\operatorOverloading\obj\Debug\net7.0\operatorOverloading.AssemblyInfo.cs
+D:\Bootcamp Shely\bootcamp-fmlx\operatorOverloading\obj\Debug\net7.0\operatorOverloading.csproj.CoreCompileInputs.cache
+D:\Bootcamp Shely\bootcamp-fmlx\operatorOverloading\bin\Debug\net7.0\operatorOverloading.exe
+D:\Bootcamp Shely\bootcamp-fmlx\operatorOverloading\bin\Debug\net7.0\operatorOverloading.deps.json
+D:\Bootcamp Shely\bootcamp-fmlx\operatorOverloading\bin\Debug\net7.0\operatorOverloading.runtimeconfig.json
+D:\Bootcamp Shely\bootcamp-fmlx\operatorOverloading\bin\Debug\net7.0\operatorOverloading.dll
+D:\Bootcamp Shely\bootcamp-fmlx\operatorOverloading\bin\Debug\net7.0\operatorOverloading.pdb
+D:\Bootcamp Shely\bootcamp-fmlx\operatorOverloading\obj\Debug\net7.0\operatorOverloading.dll
+D:\Bootcamp Shely\bootcamp-fmlx\operatorOverloading\obj\Debug\net7.0\refint\operatorOverloading.dll
+D:\Bootcamp Shely\bootcamp-fmlx\operatorOverloading\obj\Debug\net7.0\operatorOverloading.pdb
+D:\Bootcamp Shely\bootcamp-fmlx\operatorOverloading\obj\Debug\net7.0\operatorOverloading.genruntimeconfig.cache
+D:\Bootcamp Shely\bootcamp-fmlx\operatorOverloading\obj\Debug\net7.0\ref\operatorOverloading.dll

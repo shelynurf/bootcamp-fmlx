@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bootcamp Shely\\bootcamp-fmlx\\dataType\\dataType.csproj",
+      "projectUniqueName": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day5\\Learning\\dataType\\dataType.csproj",
       "projectName": "dataType",
-      "projectPath": "D:\\Bootcamp Shely\\bootcamp-fmlx\\dataType\\dataType.csproj",
+      "projectPath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day5\\Learning\\dataType\\dataType.csproj",
       "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-      "outputPath": "D:\\Bootcamp Shely\\bootcamp-fmlx\\dataType\\obj\\",
+      "outputPath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day5\\Learning\\dataType\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"

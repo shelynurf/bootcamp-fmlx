@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bootcamp Shely\\bootcamp-fmlx\\delegate-practice\\delegate-practice.csproj",
+      "projectUniqueName": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week2\\Day3\\Practice\\delegate-practice\\delegate-practice.csproj",
       "projectName": "delegate-practice",
-      "projectPath": "D:\\Bootcamp Shely\\bootcamp-fmlx\\delegate-practice\\delegate-practice.csproj",
+      "projectPath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week2\\Day3\\Practice\\delegate-practice\\delegate-practice.csproj",
       "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-      "outputPath": "D:\\Bootcamp Shely\\bootcamp-fmlx\\delegate-practice\\obj\\",
+      "outputPath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week2\\Day3\\Practice\\delegate-practice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"

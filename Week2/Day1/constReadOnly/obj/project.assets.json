@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bootcamp Shely\\bootcamp-fmlx\\constReadOnly\\constReadOnly.csproj",
+      "projectUniqueName": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week2\\Day1\\constReadOnly\\constReadOnly.csproj",
       "projectName": "constReadOnly",
-      "projectPath": "D:\\Bootcamp Shely\\bootcamp-fmlx\\constReadOnly\\constReadOnly.csproj",
+      "projectPath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week2\\Day1\\constReadOnly\\constReadOnly.csproj",
       "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-      "outputPath": "D:\\Bootcamp Shely\\bootcamp-fmlx\\constReadOnly\\obj\\",
+      "outputPath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week2\\Day1\\constReadOnly\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"

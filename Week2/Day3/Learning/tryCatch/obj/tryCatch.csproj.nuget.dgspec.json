@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Bootcamp Shely\\bootcamp-fmlx\\tryCatch\\tryCatch.csproj": {}
+    "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week2\\Day3\\Learning\\tryCatch\\tryCatch.csproj": {}
   },
   "projects": {
-    "D:\\Bootcamp Shely\\bootcamp-fmlx\\tryCatch\\tryCatch.csproj": {
+    "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week2\\Day3\\Learning\\tryCatch\\tryCatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bootcamp Shely\\bootcamp-fmlx\\tryCatch\\tryCatch.csproj",
+        "projectUniqueName": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week2\\Day3\\Learning\\tryCatch\\tryCatch.csproj",
         "projectName": "tryCatch",
-        "projectPath": "D:\\Bootcamp Shely\\bootcamp-fmlx\\tryCatch\\tryCatch.csproj",
+        "projectPath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week2\\Day3\\Learning\\tryCatch\\tryCatch.csproj",
         "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-        "outputPath": "D:\\Bootcamp Shely\\bootcamp-fmlx\\tryCatch\\obj\\",
+        "outputPath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week2\\Day3\\Learning\\tryCatch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"
