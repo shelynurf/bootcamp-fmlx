@@ -1,0 +1,15 @@
+D:\Bootcamp Shely\bootcamp-fmlx\dateTime\bin\Debug\net7.0\dateTime.exe
+D:\Bootcamp Shely\bootcamp-fmlx\dateTime\bin\Debug\net7.0\dateTime.deps.json
+D:\Bootcamp Shely\bootcamp-fmlx\dateTime\bin\Debug\net7.0\dateTime.runtimeconfig.json
+D:\Bootcamp Shely\bootcamp-fmlx\dateTime\bin\Debug\net7.0\dateTime.dll
+D:\Bootcamp Shely\bootcamp-fmlx\dateTime\bin\Debug\net7.0\dateTime.pdb
+D:\Bootcamp Shely\bootcamp-fmlx\dateTime\obj\Debug\net7.0\dateTime.csproj.AssemblyReference.cache
+D:\Bootcamp Shely\bootcamp-fmlx\dateTime\obj\Debug\net7.0\dateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp Shely\bootcamp-fmlx\dateTime\obj\Debug\net7.0\dateTime.AssemblyInfoInputs.cache
+D:\Bootcamp Shely\bootcamp-fmlx\dateTime\obj\Debug\net7.0\dateTime.AssemblyInfo.cs
+D:\Bootcamp Shely\bootcamp-fmlx\dateTime\obj\Debug\net7.0\dateTime.csproj.CoreCompileInputs.cache
+D:\Bootcamp Shely\bootcamp-fmlx\dateTime\obj\Debug\net7.0\dateTime.dll
+D:\Bootcamp Shely\bootcamp-fmlx\dateTime\obj\Debug\net7.0\refint\dateTime.dll
+D:\Bootcamp Shely\bootcamp-fmlx\dateTime\obj\Debug\net7.0\dateTime.pdb
+D:\Bootcamp Shely\bootcamp-fmlx\dateTime\obj\Debug\net7.0\dateTime.genruntimeconfig.cache
+D:\Bootcamp Shely\bootcamp-fmlx\dateTime\obj\Debug\net7.0\ref\dateTime.dll

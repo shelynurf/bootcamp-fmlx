@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Bootcamp Shely\\bootcamp-fmlx\\operatorOverloading\\operatorOverloading.csproj": {}
+    "D:\\Bootcamp Shely\\bootcamp-fmlx\\dateTime\\dateTime.csproj": {}
   },
   "projects": {
-    "d:\\Bootcamp Shely\\bootcamp-fmlx\\operatorOverloading\\operatorOverloading.csproj": {
+    "D:\\Bootcamp Shely\\bootcamp-fmlx\\dateTime\\dateTime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Bootcamp Shely\\bootcamp-fmlx\\operatorOverloading\\operatorOverloading.csproj",
-        "projectName": "operatorOverloading",
-        "projectPath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\operatorOverloading\\operatorOverloading.csproj",
+        "projectUniqueName": "D:\\Bootcamp Shely\\bootcamp-fmlx\\dateTime\\dateTime.csproj",
+        "projectName": "dateTime",
+        "projectPath": "D:\\Bootcamp Shely\\bootcamp-fmlx\\dateTime\\dateTime.csproj",
         "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-        "outputPath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\operatorOverloading\\obj\\",
+        "outputPath": "D:\\Bootcamp Shely\\bootcamp-fmlx\\dateTime\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"
