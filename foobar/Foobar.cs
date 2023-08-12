@@ -2,36 +2,62 @@ namespace FoobarLibrary;
 
 public class Foobar
 {
-	public static string GetFoobar(int x)
-	
+	public static void GetFoobar(int x)
+
 	{
-		for(int i = 0; i <= x; i++)
-		
+		for (int i = 0; i <= x; i++)
+
 		{
-			
+
 			if (i > 0 && i % 3 == 0)
-			
+
 			{
 				if (i % 3 == 0 && i % 5 == 0)
-				
+
 				{
-					return "foobar";
+					Console.Write("foobar");
+					if (i < x)
+
+					{
+						Console.Write(", ");
+					}
 				}
-				else 
-				
+
+
+				else
+
 				{
-					return "foo";
+					Console.Write("foo");
+					if (i < x)
+
+					{
+						Console.Write(", ");
+					}
+
 				}
 			}
-			else if (i > 0 && i % 5 == 0)	
-			
+			else if (i > 0 && i % 5 == 0)
+
 			{
-				return "bar";
+				Console.Write("bar");
+				if (i < x)
+
+					{
+						Console.Write(", ");
+					}
+
 			}
 			else
-			
+
 			{
-				return i.ToString();
+				// return i.ToString();
+				Console.Write(i.ToString());
+				if (i < x)
+
+					{
+						Console.Write(", ");
+					}
+
 			}
 		}
 	}

@@ -7,8 +7,6 @@ public class Program
 	
 	{	Console.Write("Input your number : ");
 		int input = Convert.ToInt32(Console.ReadLine());
-		Console.WriteLine(Foobar.GetFoobar(input));
-		
-		
+		Foobar.GetFoobar(input);
 	}
 }

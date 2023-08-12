@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Bootcamp Shely\\bootcamp-fmlx\\dateTime\\dateTime.csproj": {}
+    "d:\\Bootcamp FMLX\\solution\\dateTime\\dateTime.csproj": {}
   },
   "projects": {
-    "D:\\Bootcamp Shely\\bootcamp-fmlx\\dateTime\\dateTime.csproj": {
+    "d:\\Bootcamp FMLX\\solution\\dateTime\\dateTime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bootcamp Shely\\bootcamp-fmlx\\dateTime\\dateTime.csproj",
+        "projectUniqueName": "d:\\Bootcamp FMLX\\solution\\dateTime\\dateTime.csproj",
         "projectName": "dateTime",
-        "projectPath": "D:\\Bootcamp Shely\\bootcamp-fmlx\\dateTime\\dateTime.csproj",
-        "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-        "outputPath": "D:\\Bootcamp Shely\\bootcamp-fmlx\\dateTime\\obj\\",
+        "projectPath": "d:\\Bootcamp FMLX\\solution\\dateTime\\dateTime.csproj",
+        "packagesPath": "C:\\Users\\LOENA\\.nuget\\packages\\",
+        "outputPath": "d:\\Bootcamp FMLX\\solution\\dateTime\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\LOENA\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
