@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Bootcamp FMLX\\solution\\Week1\\Day5\\Learning\\cast\\cast.csproj": {}
+    "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day5\\Learning\\cast\\cast.csproj": {}
   },
   "projects": {
-    "d:\\Bootcamp FMLX\\solution\\Week1\\Day5\\Learning\\cast\\cast.csproj": {
+    "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day5\\Learning\\cast\\cast.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Bootcamp FMLX\\solution\\Week1\\Day5\\Learning\\cast\\cast.csproj",
+        "projectUniqueName": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day5\\Learning\\cast\\cast.csproj",
         "projectName": "cast",
-        "projectPath": "d:\\Bootcamp FMLX\\solution\\Week1\\Day5\\Learning\\cast\\cast.csproj",
-        "packagesPath": "C:\\Users\\LOENA\\.nuget\\packages\\",
-        "outputPath": "d:\\Bootcamp FMLX\\solution\\Week1\\Day5\\Learning\\cast\\obj\\",
+        "projectPath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day5\\Learning\\cast\\cast.csproj",
+        "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
+        "outputPath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day5\\Learning\\cast\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LOENA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

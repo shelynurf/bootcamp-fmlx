@@ -50,4 +50,37 @@ Use the built-in continuous integration in GitLab.
 
 # Pattern Matching
 
-> > > > > > > 411b505300673f2efc69d0f680e04c5cf0e770bd
+
+# Collection
+## Array
+### Array
+- access data by index
+- fix size
+- type safety (cannot add different data type)
+
+### ArrayList (not recommended)
+- access data by index
+- dynamic size (can add data)
+- not type safety
+``` Arraylist x = new();
+
+```
+### `List<T>`
+- access data by index
+- dynamic size
+- type safety
+
+
+### `HashSet<T>`
+- dunamic size
+- type safety
+- unique(each value is different)
+
+
+### `LinkedLis<T> (not recommended)`
+- good performance (to add/remove item in index)
+- type safety
+- dynamic size
+- bad memory size
+
+

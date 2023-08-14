@@ -1,0 +1,15 @@
+D:\Bootcamp Shely\bootcamp-fmlx\Collection\bin\Debug\net7.0\Collection.exe
+D:\Bootcamp Shely\bootcamp-fmlx\Collection\bin\Debug\net7.0\Collection.deps.json
+D:\Bootcamp Shely\bootcamp-fmlx\Collection\bin\Debug\net7.0\Collection.runtimeconfig.json
+D:\Bootcamp Shely\bootcamp-fmlx\Collection\bin\Debug\net7.0\Collection.dll
+D:\Bootcamp Shely\bootcamp-fmlx\Collection\bin\Debug\net7.0\Collection.pdb
+D:\Bootcamp Shely\bootcamp-fmlx\Collection\obj\Debug\net7.0\Collection.csproj.AssemblyReference.cache
+D:\Bootcamp Shely\bootcamp-fmlx\Collection\obj\Debug\net7.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp Shely\bootcamp-fmlx\Collection\obj\Debug\net7.0\Collection.AssemblyInfoInputs.cache
+D:\Bootcamp Shely\bootcamp-fmlx\Collection\obj\Debug\net7.0\Collection.AssemblyInfo.cs
+D:\Bootcamp Shely\bootcamp-fmlx\Collection\obj\Debug\net7.0\Collection.csproj.CoreCompileInputs.cache
+D:\Bootcamp Shely\bootcamp-fmlx\Collection\obj\Debug\net7.0\Collection.dll
+D:\Bootcamp Shely\bootcamp-fmlx\Collection\obj\Debug\net7.0\refint\Collection.dll
+D:\Bootcamp Shely\bootcamp-fmlx\Collection\obj\Debug\net7.0\Collection.pdb
+D:\Bootcamp Shely\bootcamp-fmlx\Collection\obj\Debug\net7.0\Collection.genruntimeconfig.cache
+D:\Bootcamp Shely\bootcamp-fmlx\Collection\obj\Debug\net7.0\ref\Collection.dll
