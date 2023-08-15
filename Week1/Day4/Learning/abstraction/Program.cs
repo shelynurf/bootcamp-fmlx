@@ -11,8 +11,8 @@ public abstract class ParentAbstract {
 	public int x;
 	public int y;
 	
-	public void Add() { //non abstract
-		Console.WriteLine(x+y);
+	public int Add() { //non abstract
+		return x+y;
 	}
 	public abstract int GetTotal();
 }
@@ -29,10 +29,18 @@ public class Child : ParentAbstract {
 class Program
 
 {
-	void Main() {
+	static void Main() {
 	Child child = new Child();
 	ParentAbstract parent = child;
-	parent.Add();
-	parent.GetTotal();
+	
+	child.x = 4;
+	child.y = 3;
+	parent.x = 5;
+	parent.y = 6;
+	Console.WriteLine("parent : " + parent.Add());
+	Console.WriteLine("parent : " + parent.GetTotal());
+	Console.WriteLine("child : " + child.Add());
+	Console.WriteLine("child : " + child.GetTotal());
+
 }
 }

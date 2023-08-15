@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day4\\Learning\\abstraction\\abstraction.csproj": {}
+    "D:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\abstraction\\abstraction.csproj": {}
   },
   "projects": {
-    "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day4\\Learning\\abstraction\\abstraction.csproj": {
+    "D:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\abstraction\\abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day4\\Learning\\abstraction\\abstraction.csproj",
+        "projectUniqueName": "D:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\abstraction\\abstraction.csproj",
         "projectName": "abstraction",
-        "projectPath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day4\\Learning\\abstraction\\abstraction.csproj",
-        "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-        "outputPath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day4\\Learning\\abstraction\\obj\\",
+        "projectPath": "D:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\abstraction\\abstraction.csproj",
+        "packagesPath": "C:\\Users\\LOENA\\.nuget\\packages\\",
+        "outputPath": "D:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\LOENA\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,15 @@
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\day4-interface\bin\Debug\net7.0\day4-interface.exe
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\day4-interface\bin\Debug\net7.0\day4-interface.deps.json
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\day4-interface\bin\Debug\net7.0\day4-interface.runtimeconfig.json
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\day4-interface\bin\Debug\net7.0\day4-interface.dll
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\day4-interface\bin\Debug\net7.0\day4-interface.pdb
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\day4-interface\obj\Debug\net7.0\day4-interface.csproj.AssemblyReference.cache
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\day4-interface\obj\Debug\net7.0\day4-interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\day4-interface\obj\Debug\net7.0\day4-interface.AssemblyInfoInputs.cache
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\day4-interface\obj\Debug\net7.0\day4-interface.AssemblyInfo.cs
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\day4-interface\obj\Debug\net7.0\day4-interface.csproj.CoreCompileInputs.cache
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\day4-interface\obj\Debug\net7.0\day4-interface.dll
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\day4-interface\obj\Debug\net7.0\refint\day4-interface.dll
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\day4-interface\obj\Debug\net7.0\day4-interface.pdb
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\day4-interface\obj\Debug\net7.0\day4-interface.genruntimeconfig.cache
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\day4-interface\obj\Debug\net7.0\ref\day4-interface.dll

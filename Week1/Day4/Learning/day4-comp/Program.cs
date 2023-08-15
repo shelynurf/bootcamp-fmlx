@@ -16,7 +16,7 @@ class Child : Parent
 class Program
 
 {
-	void Main() {
+	static void Main() {
 	Parent parent = new Parent();
 	Child child = new Child();
 	
@@ -27,6 +27,7 @@ class Program
 	Parent parent2 = child;
 	parent2.ParentMethod();
 	parent2.ParentMethod2();
+	
 	
 }
 }

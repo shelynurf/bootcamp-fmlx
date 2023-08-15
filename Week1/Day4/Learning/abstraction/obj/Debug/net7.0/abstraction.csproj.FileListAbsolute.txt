@@ -3,3 +3,18 @@ D:\Bootcamp Batch 4\bootcamp-fmlx\abstraction\obj\Debug\net7.0\abstraction.Gener
 D:\Bootcamp Batch 4\bootcamp-fmlx\abstraction\obj\Debug\net7.0\abstraction.AssemblyInfoInputs.cache
 D:\Bootcamp Batch 4\bootcamp-fmlx\abstraction\obj\Debug\net7.0\abstraction.AssemblyInfo.cs
 D:\Bootcamp Batch 4\bootcamp-fmlx\abstraction\obj\Debug\net7.0\abstraction.csproj.CoreCompileInputs.cache
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\abstraction\obj\Debug\net7.0\abstraction.csproj.AssemblyReference.cache
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\abstraction\obj\Debug\net7.0\abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\abstraction\obj\Debug\net7.0\abstraction.AssemblyInfoInputs.cache
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\abstraction\obj\Debug\net7.0\abstraction.AssemblyInfo.cs
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\abstraction\obj\Debug\net7.0\abstraction.csproj.CoreCompileInputs.cache
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\abstraction\bin\Debug\net7.0\abstraction.exe
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\abstraction\bin\Debug\net7.0\abstraction.deps.json
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\abstraction\bin\Debug\net7.0\abstraction.runtimeconfig.json
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\abstraction\bin\Debug\net7.0\abstraction.dll
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\abstraction\bin\Debug\net7.0\abstraction.pdb
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\abstraction\obj\Debug\net7.0\abstraction.dll
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\abstraction\obj\Debug\net7.0\refint\abstraction.dll
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\abstraction\obj\Debug\net7.0\abstraction.pdb
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\abstraction\obj\Debug\net7.0\abstraction.genruntimeconfig.cache
+D:\Bootcamp FMLX\solution\Week1\Day4\Learning\abstraction\obj\Debug\net7.0\ref\abstraction.dll
