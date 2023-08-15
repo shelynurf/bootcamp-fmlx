@@ -84,3 +84,14 @@ Use the built-in continuous integration in GitLab.
 - bad memory size
 
 
+# Stack
+LIFO
+- Push()
+- Pop()
+- Peek()
+
+# Queue
+- Enqueue()
+- Dequeue()
+- Peek()
+
