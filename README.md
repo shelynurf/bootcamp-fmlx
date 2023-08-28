@@ -95,3 +95,25 @@ LIFO
 - Dequeue()
 - Peek()
 
+# 28/8/2023
+## Finalizer / Destructor (not recommended, waste memory)
+- nitip ke GC saat bersihin, tolong sekalian lakuin ini
+- opponent of constructor -> to destroy instance
+- called before GC clean up
+
+## Garbage Collection
+- running automatically by time or memory size
+- can run manually using Force GC (not reccommended)
+- no parameter, access modifier
+- same name with class
+- handle managed type only(int, string, class, object, dll, not external resource / unmanage type)
+
+- to handling unmanage type, can using
+```
+Dispose();
+```
+
+when Force GC is called, the program wuill stop for ... nano second
+``` 
+GC.Collect();
+```
