@@ -117,3 +117,24 @@ when Force GC is called, the program wuill stop for ... nano second
 ``` 
 GC.Collect();
 ```
+
+# Conditional Compilation
+agar bisa compile bagian tertentu saja
+```
+dotnet build -c namaFolder
+```
+jika hanya menggunakan 
+```
+dotnet build
+```
+maka hanya bisa mengcompile debug saja
+
+## Debugger
+- searching error
+- error : syntax error, logic error
+
+## Hot Reload
+- to debug in live
+```
+watch run
+```
