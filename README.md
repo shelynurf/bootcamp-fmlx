@@ -50,37 +50,98 @@ Use the built-in continuous integration in GitLab.
 
 # Pattern Matching
 
-
 # Collection
+
 ## Array
+
 ### Array
+
 - access data by index
 - fix size
 - type safety (cannot add different data type)
 
 ### ArrayList (not recommended)
+
 - access data by index
 - dynamic size (can add data)
 - not type safety
-``` Arraylist x = new();
+
+```Arraylist x = new();
 
 ```
+
 ### `List<T>`
+
 - access data by index
 - dynamic size
 - type safety
 
-
 ### `HashSet<T>`
+
 - dunamic size
 - type safety
 - unique(each value is different)
 
-
 ### `LinkedLis<T> (not recommended)`
+
 - good performance (to add/remove item in index)
 - type safety
 - dynamic size
 - bad memory size
 
+# 28/8/2023
 
+## Finalizer / Destructor (not recommended, waste memory)
+
+- nitip ke GC saat bersihin, tolong sekalian lakuin ini
+- opponent of constructor -> to destroy instance
+- called before GC clean up
+
+## Garbage Collection
+
+- running automatically by time or memory size
+- can run manually using Force GC (not reccommended)
+- no parameter, access modifier
+- same name with class
+- handle managed type only(int, string, class, object, dll, not external resource / unmanage type)
+
+- to handling unmanage type, can using
+
+```
+Dispose();
+```
+
+when Force GC is called, the program wuill stop for ... nano second
+
+```
+GC.Collect();
+```
+
+# Conditional Compilation
+
+agar bisa compile bagian tertentu saja
+
+```
+dotnet build -c namaFolder
+```
+
+jika hanya menggunakan
+
+```
+dotnet build
+```
+
+maka hanya bisa mengcompile debug saja
+
+## Debugger
+
+- searching error
+- error : syntax error, logic error
+
+## Hot Reload
+
+- to debug in live
+
+```
+dotnet watch run
+```
