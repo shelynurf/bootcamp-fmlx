@@ -1,8 +1,8 @@
 ﻿class Car {
 	//Variable
 	public int x;
-	public string y;
-	public IEngine engine;
+	public string? y;
+	public IEngine? engine;
 	
 	//Property or Variable Method 
 	public int z { get; private set; }

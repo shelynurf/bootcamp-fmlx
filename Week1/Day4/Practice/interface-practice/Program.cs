@@ -66,6 +66,9 @@ class Program
 		mom.Role();
 		dad.Role();
 		children.Role();
+
+		Family fam = new Family(dad);
+		fam.RoleFamily();
 		
 		
 		
