@@ -164,3 +164,5 @@ Trace
 ```
 dotnet build -c Release
 ```
+
+# Multithreading
