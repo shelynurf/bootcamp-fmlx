@@ -166,3 +166,9 @@ dotnet build -c Release
 ```
 
 # Multithreading
+## Deadlock
+waiting for each other
+solve by : async await, technique
+## Race Condition
+
+solve by Lock Mechanism
