@@ -172,3 +172,12 @@ solve by : async await, technique
 ## Race Condition
 
 solve by Lock Mechanism
+
+# File Stream
+## File Mode
+- create new : create new file, if exist then exception
+- create : create new file, if exist then replace
+- open : open file. if not found then exception
+- open or create : open file, if not found then create new file
+- truncate : 
+- append : 
