@@ -142,6 +142,42 @@ maka hanya bisa mengcompile debug saja
 
 - to debug in live
 
+
+## Hot Reload
+- to debug in live
 ```
-dotnet watch run
+watch run
 ```
+
+## Debug and Trace
+Logging -> record activity
+
+Log level :
+Trace -> Debug -> Info -> Warning -> Error -> Fatal
+
+Debug and Trace
+```
+dotnet build
+```
+
+Trace
+```
+dotnet build -c Release
+```
+
+# Multithreading
+## Deadlock
+waiting for each other
+solve by : async await, technique
+## Race Condition
+
+solve by Lock Mechanism
+
+# File Stream
+## File Mode
+- create new : create new file, if exist then exception
+- create : create new file, if exist then replace
+- open : open file. if not found then exception
+- open or create : open file, if not found then create new file
+- truncate : 
+- append : 

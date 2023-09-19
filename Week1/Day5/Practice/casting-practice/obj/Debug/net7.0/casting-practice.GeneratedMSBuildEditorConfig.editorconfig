@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = casting_practice
+<<<<<<< HEAD
 build_property.ProjectDir = d:\Bootcamp FMLX\solution\Week1\Day5\Practice\casting-practice\
+=======
+build_property.ProjectDir = c:\Users\Batch 4\Documents\Bootcamp Batch 4\shely\bootcamp-fmlx\Week1\Day5\Practice\casting-practice\
+>>>>>>> 642c6d41339d1287557fdbce89e94f586f907469

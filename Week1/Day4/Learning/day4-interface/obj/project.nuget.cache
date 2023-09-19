@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "zMvPGuxpOpLAFvIIjfV/myhWNuDT3e6pZTeC8WaZqOxiDOVcIs76q9YRCMTyGEA0mwW82KEz+N+vde/fJwDJ0A==",
   "success": true,
   "projectFilePath": "d:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\day4-interface\\day4-interface.csproj",
+=======
+  "dgSpecHash": "v59kzL8JDdVymltKOtcgGm3FgHRyTLn5fobxC4jKBcAPdANgxFTCpuatI/1Ujo47DDIg7+/UX41xxbh0HeYTew==",
+  "success": true,
+  "projectFilePath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Week1\\Day4\\Learning\\day4-interface\\day4-interface.csproj",
+>>>>>>> 642c6d41339d1287557fdbce89e94f586f907469
   "expectedPackageFiles": [],
   "logs": []
 }
