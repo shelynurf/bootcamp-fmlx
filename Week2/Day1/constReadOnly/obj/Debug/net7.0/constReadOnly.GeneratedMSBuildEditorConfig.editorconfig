@@ -8,8 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = constReadOnly
-<<<<<<< HEAD
-build_property.ProjectDir = d:\Bootcamp FMLX\solution\Week2\Day1\constReadOnly\
-=======
 build_property.ProjectDir = c:\Users\Batch 4\Documents\Bootcamp Batch 4\shely\bootcamp-fmlx\Week2\Day1\constReadOnly\
->>>>>>> 642c6d41339d1287557fdbce89e94f586f907469
