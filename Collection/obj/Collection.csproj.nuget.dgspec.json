@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Bootcamp Shely\\bootcamp-fmlx\\Collection\\Collection.csproj": {}
+    "d:\\Bootcamp FMLX\\solution\\Collection\\Collection.csproj": {}
   },
   "projects": {
-    "d:\\Bootcamp Shely\\bootcamp-fmlx\\Collection\\Collection.csproj": {
+    "d:\\Bootcamp FMLX\\solution\\Collection\\Collection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Collection\\Collection.csproj",
+        "projectUniqueName": "d:\\Bootcamp FMLX\\solution\\Collection\\Collection.csproj",
         "projectName": "Collection",
-        "projectPath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Collection\\Collection.csproj",
-        "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-        "outputPath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\Collection\\obj\\",
+        "projectPath": "d:\\Bootcamp FMLX\\solution\\Collection\\Collection.csproj",
+        "packagesPath": "C:\\Users\\LOENA\\.nuget\\packages\\",
+        "outputPath": "d:\\Bootcamp FMLX\\solution\\Collection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\LOENA\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

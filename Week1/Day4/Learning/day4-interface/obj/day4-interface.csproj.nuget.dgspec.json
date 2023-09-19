@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\day4-interface\\day4-interface.csproj": {}
+    "d:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\day4-interface\\day4-interface.csproj": {}
   },
   "projects": {
-    "D:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\day4-interface\\day4-interface.csproj": {
+    "d:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\day4-interface\\day4-interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\day4-interface\\day4-interface.csproj",
+        "projectUniqueName": "d:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\day4-interface\\day4-interface.csproj",
         "projectName": "day4-interface",
-        "projectPath": "D:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\day4-interface\\day4-interface.csproj",
+        "projectPath": "d:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\day4-interface\\day4-interface.csproj",
         "packagesPath": "C:\\Users\\LOENA\\.nuget\\packages\\",
-        "outputPath": "D:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\day4-interface\\obj\\",
+        "outputPath": "d:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\day4-interface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LOENA\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Bootcamp Shely\\bootcamp-fmlx\\foobar\\foobar.csproj": {}
+    "d:\\Bootcamp FMLX\\solution\\foobar\\foobar.csproj": {}
   },
   "projects": {
-    "d:\\Bootcamp Shely\\bootcamp-fmlx\\foobar\\foobar.csproj": {
+    "d:\\Bootcamp FMLX\\solution\\foobar\\foobar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Bootcamp Shely\\bootcamp-fmlx\\foobar\\foobar.csproj",
+        "projectUniqueName": "d:\\Bootcamp FMLX\\solution\\foobar\\foobar.csproj",
         "projectName": "foobar",
-        "projectPath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\foobar\\foobar.csproj",
-        "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-        "outputPath": "d:\\Bootcamp Shely\\bootcamp-fmlx\\foobar\\obj\\",
+        "projectPath": "d:\\Bootcamp FMLX\\solution\\foobar\\foobar.csproj",
+        "packagesPath": "C:\\Users\\LOENA\\.nuget\\packages\\",
+        "outputPath": "d:\\Bootcamp FMLX\\solution\\foobar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\LOENA\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\day4-comp\\day4-comp.csproj": {}
+    "d:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\day4-comp\\day4-comp.csproj": {}
   },
   "projects": {
-    "D:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\day4-comp\\day4-comp.csproj": {
+    "d:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\day4-comp\\day4-comp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\day4-comp\\day4-comp.csproj",
+        "projectUniqueName": "d:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\day4-comp\\day4-comp.csproj",
         "projectName": "day4-comp",
-        "projectPath": "D:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\day4-comp\\day4-comp.csproj",
+        "projectPath": "d:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\day4-comp\\day4-comp.csproj",
         "packagesPath": "C:\\Users\\LOENA\\.nuget\\packages\\",
-        "outputPath": "D:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\day4-comp\\obj\\",
+        "outputPath": "d:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\day4-comp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LOENA\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\abstraction\\abstraction.csproj": {}
+    "d:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\abstraction\\abstraction.csproj": {}
   },
   "projects": {
-    "D:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\abstraction\\abstraction.csproj": {
+    "d:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\abstraction\\abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\abstraction\\abstraction.csproj",
+        "projectUniqueName": "d:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\abstraction\\abstraction.csproj",
         "projectName": "abstraction",
-        "projectPath": "D:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\abstraction\\abstraction.csproj",
+        "projectPath": "d:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\abstraction\\abstraction.csproj",
         "packagesPath": "C:\\Users\\LOENA\\.nuget\\packages\\",
-        "outputPath": "D:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\abstraction\\obj\\",
+        "outputPath": "d:\\Bootcamp FMLX\\solution\\Week1\\Day4\\Learning\\abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LOENA\\AppData\\Roaming\\NuGet\\NuGet.Config"
