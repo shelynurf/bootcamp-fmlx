@@ -6,7 +6,6 @@ namespace Prototype1
         public int age;
         public Fur fur;
         public string ownerName;
-        object obj;
         
 
         public Cat(string catName, int age)
